@@ -1,0 +1,18 @@
+User-Agent: *
+Disallow: 
+Disallow: /ajaxs/
+Disallow: /assets/
+Disallow: /bootstrap/
+Disallow: /classes/
+Disallow: /css/
+Disallow: /demo/
+Disallow: /designs/
+Disallow: /develops/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /languages/
+Disallow: /libs/
+Disallow: /pages/
+Disallow: /tinymce/
+
+Sitemap: http://www.arabicentre.com/sitemap.xml
